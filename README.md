@@ -15,14 +15,11 @@ Une fois extrait nous utilisons le projet github https://github.com/unode/firefo
 ![image](https://github.com/user-attachments/assets/fdb813b8-ed76-4d35-af9d-ecb21ebcf247)
 
 
-Les fichiers du profil se retrouvent sur le chemin : C:\Users\<NomUtilisateur>\AppData\Roaming\Mozilla\Firefox\Profiles
+Les fichiers du profil se retrouvent sur le chemin : <br> C:\Users\<NomUtilisateur>\AppData\Roaming\Mozilla\Firefox\Profiles
 
 Fonctionnement du script : 
  - Une clé USB HackyPI qui va permettre d'executer le code powershell
  - Une clé USB "HACK" qui va permettre de récuperer les fichiers extraits.
-
-Voici une vidéo démonstration du script : 
-
 
 
 # 🦊 mRemoteNG dump du fichier ConfCons.xml 
@@ -40,6 +37,5 @@ Une fois le fichier extrait et copié sur la clé USB "HACK", nous utilisons le 
 
 ![image](https://github.com/user-attachments/assets/ade95673-75dc-4445-bb40-ead13cdf4cf6)
 
-Voici une vidéo démonstration du script : 
 
 
