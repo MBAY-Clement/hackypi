@@ -22,7 +22,7 @@ Fonctionnement du script :
  - Une clé USB "HACK" qui va permettre de récuperer les fichiers extraits.
 
 
-# 🦊 mRemoteNG dump du fichier ConfCons.xml 
+# 🛠️ mRemoteNG dump du fichier ConfCons.xml 
 
 🔹 Ce script cible l’application mRemoteNG, un gestionnaire de connexions RDP, SSH, et autres protocoles.
 🔹 Il récupère le fichier de configuration ConfCons.xml, qui contient les identifiants stockés pour les connexions distantes.
