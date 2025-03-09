@@ -2,7 +2,7 @@
 
 Bienvenue sur HackyPi Scripts, un ensemble de scripts dédiés à l'extraction et au déchiffrement de mots de passe stockés localement sur un système. Ces scripts sont conçus pour être exécutés à partir d'une clé HackyPi, permettant d'automatiser la récupération de données sensibles depuis des logiciels couramment utilisés (https://shop.sb-components.co.uk/products/hackypi-compact-diy-usb-hacking-tool).
 
-🔹 Ce script permet d'extraire les fichiers de profil Firefox et d'en récupérer les mots de passe enregistrés.
+🔹 Ce script permet d'extraire les fichiers de profil Firefox et d'en récupérer les mots de passe enregistrés. <br>
 🔹 Il fonctionne en copiant les bases de données SQLite et les fichiers de chiffrement associés, puis en les exploitant pour afficher les identifiants stockés.
 
 
